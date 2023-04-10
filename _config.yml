@@ -22,8 +22,9 @@ title: ひらがな辞書
 email: mitsu322@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   このサイトはChatGPTによって生成されました。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/JapaneseDictionary/" # the subpath of your site, e.g. /blog
+domain: "mitsugeek.github.io"
+url: "https://mitsugeek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mitsugeek
 github_username:  mitsugeek
 
