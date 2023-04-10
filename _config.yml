@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ひらがな辞書
-email: mitsu322@gmail.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   このサイトはChatGPTによって生成されました。
 baseurl: "/JapaneseDictionary/" # the subpath of your site, e.g. /blog
